@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "bsp_key.h": "c",
+        "bsp_menulayout.h": "c",
+        "bsp_timer.h": "c",
+        "bsp_usart.h": "c",
+        "stimer.h": "c",
+        "stask.h": "c",
+        "bsp_application.h": "c",
+        "board.h": "c"
+    }
+}
